@@ -75,6 +75,7 @@ Hadoop has **4 main components**:
 ---
 
 # 🔹 Hadoop Architecture (Diagram)
+![alt text](image.png)
 
 ```id="rhb7wy"
             Hadoop Framework
