@@ -29,7 +29,7 @@ These models differ based on **how much control the user has and what the cloud 
 
 ## Definition
 
-Infrastructure as a Service (IaaS) provides **basic computing infrastructure such as virtual machines, storage, and networking over the internet**.
+tructure as a Service (IaaS) provides **basic computing infrastructure such as virtual machines, storage, and networking over the internet**.
 
 The cloud provider manages **hardware and virtualization**, while the user manages **operating systems and applications**.
 
